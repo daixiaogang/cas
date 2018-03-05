@@ -1,0 +1,251 @@
+2018-02-05 20:12:35,686 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 20:12:36,282 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2018-02-05 20:12:55,572 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2018-02-05 20:12:55,573 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2018-02-05 20:12:55,573 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2018-02-05 20:14:35,703 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 20:14:35,704 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 20:14:47,922 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 20:14:47,922 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 20:14:47,922 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 20:14:47,922 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 20:14:49,024 INFO [org.jasig.cas.authentication.AuthenticationManagerImpl] - AuthenticationHandler: org.jasig.cas.adaptors.jdbc.QueryDatabaseAuthenticationHandler successfully authenticated the user which provided the following credentials: [username: admin]
+2018-02-05 20:14:49,173 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-1-PrL9oK9AfgUOlXOnkdaT-cas] for service [http://127.0.0.1:8082/sso_login/home/toUserLogin] for user [admin]
+2018-02-05 20:16:03,029 INFO [org.jasig.cas.authentication.AuthenticationManagerImpl] - AuthenticationHandler: org.jasig.cas.adaptors.jdbc.QueryDatabaseAuthenticationHandler successfully authenticated the user which provided the following credentials: [username: admin]
+2018-02-05 20:16:03,233 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-2-gu9l2gzWamdWHMetuO6h-cas] for service [http://127.0.0.1:8082/sso_login/home/toUserLogin?ticket=ST-1-PrL9oK9AfgUOlXOnkdaT-cas] for user [admin]
+2018-02-05 20:16:35,702 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 20:16:35,702 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 20:17:39,509 INFO [org.jasig.cas.authentication.AuthenticationManagerImpl] - AuthenticationHandler: org.jasig.cas.adaptors.jdbc.QueryDatabaseAuthenticationHandler successfully authenticated the user which provided the following credentials: [username: admin]
+2018-02-05 20:17:39,529 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-3-djjZI9tyQ0BigfuLflBW-cas] for service [http://127.0.0.1:8082/sso_login/home/toUserLogin?ticket=ST-1-PrL9oK9AfgUOlXOnkdaT-cas&ticket=ST-2-gu9l2gzWamdWHMetuO6h-cas] for user [admin]
+2018-02-05 20:18:27,666 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 20:18:29,093 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2018-02-05 20:18:46,771 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2018-02-05 20:18:46,772 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2018-02-05 20:18:46,773 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2018-02-05 20:19:06,397 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 20:19:06,397 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 20:19:06,397 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 20:19:06,397 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 20:19:07,002 INFO [org.jasig.cas.authentication.AuthenticationManagerImpl] - AuthenticationHandler: org.jasig.cas.adaptors.jdbc.QueryDatabaseAuthenticationHandler successfully authenticated the user which provided the following credentials: [username: admin]
+2018-02-05 20:19:07,064 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-1-TRNMcaVCb3vIjGWCTILv-cas] for service [http://127.0.0.1:8082/sso_login/home/toUserLogin] for user [admin]
+2018-02-05 20:20:27,762 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 20:20:27,763 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 20:21:04,820 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 20:21:05,724 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2018-02-05 20:21:24,659 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2018-02-05 20:21:24,660 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2018-02-05 20:21:24,660 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2018-02-05 20:21:30,224 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 20:21:30,224 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 20:21:30,224 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 20:21:30,224 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 20:21:30,771 INFO [org.jasig.cas.authentication.AuthenticationManagerImpl] - AuthenticationHandler: org.jasig.cas.adaptors.jdbc.QueryDatabaseAuthenticationHandler successfully authenticated the user which provided the following credentials: [username: admin]
+2018-02-05 20:21:30,840 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-1-cA3tbqGRJyBzPQsFKYSk-cas] for service [http://127.0.0.1:8082/sso_login/home/toUserLogin] for user [admin]
+2018-02-05 20:23:04,851 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 20:23:04,851 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 20:23:58,188 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 20:23:58,746 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2018-02-05 20:24:18,100 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2018-02-05 20:24:18,102 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2018-02-05 20:24:18,103 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2018-02-05 20:24:28,700 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 20:24:28,700 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 20:24:28,700 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 20:24:28,700 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 20:24:29,823 INFO [org.jasig.cas.authentication.AuthenticationManagerImpl] - AuthenticationHandler: org.jasig.cas.adaptors.jdbc.QueryDatabaseAuthenticationHandler failed to authenticate the user which provided the following credentials: [username: admin ]
+2018-02-05 20:25:58,205 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 20:25:58,205 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 20:27:58,205 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 20:27:58,206 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 20:29:58,207 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 20:29:58,208 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 20:31:58,205 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 20:31:58,206 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 20:33:58,205 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 20:33:58,206 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 20:35:58,206 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 20:35:58,206 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 20:37:58,206 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 20:37:58,207 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 20:39:58,206 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 20:39:58,207 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 20:41:58,206 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 20:41:58,207 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 20:43:58,205 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 20:43:58,206 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 20:45:58,205 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 20:45:58,206 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 20:47:58,206 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 20:47:58,207 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 20:49:58,206 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 20:49:58,207 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 20:51:58,206 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 20:51:58,207 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 20:54:57,517 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 20:54:58,652 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2018-02-05 20:55:17,377 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2018-02-05 20:55:17,378 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2018-02-05 20:55:17,378 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2018-02-05 20:55:31,985 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 20:55:31,985 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 20:55:32,507 INFO [org.jasig.cas.authentication.AuthenticationManagerImpl] - AuthenticationHandler: org.jasig.cas.adaptors.jdbc.QueryDatabaseAuthenticationHandler successfully authenticated the user which provided the following credentials: [username: admin]
+2018-02-05 20:55:32,572 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-1-Oecfpzz9yDidmOiVab57-cas] for service [http://127.0.0.1:8082/sso_login/home/toUserLogin] for user [admin]
+2018-02-05 20:56:57,536 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 20:56:57,536 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 20:57:22,824 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 20:57:23,370 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2018-02-05 20:57:42,679 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2018-02-05 20:57:42,680 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2018-02-05 20:57:42,680 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2018-02-05 20:58:02,696 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 20:58:02,696 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 20:58:03,322 INFO [org.jasig.cas.authentication.AuthenticationManagerImpl] - AuthenticationHandler: org.jasig.cas.adaptors.jdbc.QueryDatabaseAuthenticationHandler successfully authenticated the user which provided the following credentials: [username: admin]
+2018-02-05 20:58:03,417 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-1-aW2iK2vrq25wJxoGG9CG-cas] for service [http://127.0.0.1:8082/sso_login/home/toUserLogin] for user [admin]
+2018-02-05 20:59:23,864 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 20:59:25,453 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2018-02-05 20:59:43,373 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2018-02-05 20:59:43,374 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2018-02-05 20:59:43,374 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2018-02-05 20:59:49,471 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 20:59:49,471 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 20:59:50,172 INFO [org.jasig.cas.authentication.AuthenticationManagerImpl] - AuthenticationHandler: org.jasig.cas.adaptors.jdbc.QueryDatabaseAuthenticationHandler successfully authenticated the user which provided the following credentials: [username: admin]
+2018-02-05 20:59:50,282 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-1-ncyszvcFNdwIel1ug9pS-cas] for service [http://127.0.0.1:8082/sso_login/home/toUserLogin] for user [admin]
+2018-02-05 21:01:07,886 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:01:08,563 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2018-02-05 21:01:27,771 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2018-02-05 21:01:27,772 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2018-02-05 21:01:27,772 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2018-02-05 21:01:28,807 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 21:01:28,807 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 21:01:28,807 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 21:01:28,807 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 21:01:29,641 INFO [org.jasig.cas.authentication.AuthenticationManagerImpl] - AuthenticationHandler: org.jasig.cas.adaptors.jdbc.QueryDatabaseAuthenticationHandler successfully authenticated the user which provided the following credentials: [username: admin]
+2018-02-05 21:01:29,734 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-1-LQ4jvZaazD1o71mpjkcS-cas] for service [http://127.0.0.1:8082/sso_login/home/toUserLogin] for user [admin]
+2018-02-05 21:03:07,905 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:03:07,906 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:05:07,905 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:05:07,906 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:06:49,412 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:06:50,701 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2018-02-05 21:07:09,025 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2018-02-05 21:07:09,026 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2018-02-05 21:07:09,026 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2018-02-05 21:07:18,573 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 21:07:18,573 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 21:07:18,573 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 21:07:18,573 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 21:08:42,316 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:08:42,865 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2018-02-05 21:09:02,207 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2018-02-05 21:09:02,208 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2018-02-05 21:09:02,208 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2018-02-05 21:09:10,488 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 21:09:10,488 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 21:09:10,488 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 21:09:10,488 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 21:09:11,194 INFO [org.jasig.cas.authentication.AuthenticationManagerImpl] - AuthenticationHandler: org.jasig.cas.adaptors.jdbc.QueryDatabaseAuthenticationHandler successfully authenticated the user which provided the following credentials: [username: admin]
+2018-02-05 21:09:11,289 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-1-fgCNrUko5hBHtyexQq4M-cas] for service [http://127.0.0.1:8082/sso_login/home/toUserLogin] for user [admin]
+2018-02-05 21:09:39,041 INFO [org.jasig.cas.authentication.AuthenticationManagerImpl] - AuthenticationHandler: org.jasig.cas.adaptors.jdbc.QueryDatabaseAuthenticationHandler successfully authenticated the user which provided the following credentials: [username: admin]
+2018-02-05 21:09:39,075 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-2-NcV1bJmt9T51JF22BajU-cas] for service [http://127.0.0.1:8082/sso_login/home/toUserLogin?ticket=ST-1-fgCNrUko5hBHtyexQq4M-cas] for user [admin]
+2018-02-05 21:10:42,336 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:10:42,336 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:11:00,172 INFO [org.jasig.cas.authentication.AuthenticationManagerImpl] - AuthenticationHandler: org.jasig.cas.adaptors.jdbc.QueryDatabaseAuthenticationHandler successfully authenticated the user which provided the following credentials: [username: admin]
+2018-02-05 21:11:23,294 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-3-Z06L5OA0EjfsavjWsQKo-cas] for service [http://127.0.0.1:8082/sso_login/home/toUserLogin?ticket=ST-1-fgCNrUko5hBHtyexQq4M-cas&ticket=ST-2-NcV1bJmt9T51JF22BajU-cas] for user [admin]
+2018-02-05 21:11:28,324 WARN [org.jasig.cas.util.HttpClient] - Socket Timeout Detected while attempting to send message to [http://127.0.0.1:8082/sso_login/home/toUserLogin?ticket=ST-1-fgCNrUko5hBHtyexQq4M-cas].
+2018-02-05 21:12:42,335 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:12:42,335 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:14:42,335 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:14:42,335 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:16:42,335 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:16:42,336 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:16:53,573 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:16:54,816 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2018-02-05 21:17:13,352 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2018-02-05 21:17:13,354 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2018-02-05 21:17:13,354 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2018-02-05 21:17:40,530 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 21:17:40,530 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 21:17:40,531 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 21:17:40,531 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 21:17:41,333 INFO [org.jasig.cas.authentication.AuthenticationManagerImpl] - AuthenticationHandler: org.jasig.cas.adaptors.jdbc.QueryDatabaseAuthenticationHandler successfully authenticated the user which provided the following credentials: [username: admin]
+2018-02-05 21:17:41,406 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-1-9BaT4rehYC0X7JzzhmkH-cas] for service [http://127.0.0.1:8082/sso_login/home/toUserLogin] for user [admin]
+2018-02-05 21:18:26,394 INFO [org.jasig.cas.authentication.AuthenticationManagerImpl] - AuthenticationHandler: org.jasig.cas.adaptors.jdbc.QueryDatabaseAuthenticationHandler successfully authenticated the user which provided the following credentials: [username: admin]
+2018-02-05 21:18:26,418 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-2-z4dpYYOBEZObcWzktIWH-cas] for service [http://127.0.0.1:8082/sso_login/home/toUserLogin] for user [admin]
+2018-02-05 21:18:53,604 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:18:53,605 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:20:53,602 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:20:53,602 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:22:53,602 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:22:53,603 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:24:53,603 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:24:53,604 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:25:06,094 INFO [org.jasig.cas.authentication.AuthenticationManagerImpl] - AuthenticationHandler: org.jasig.cas.adaptors.jdbc.QueryDatabaseAuthenticationHandler successfully authenticated the user which provided the following credentials: [username: admin]
+2018-02-05 21:25:06,111 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-3-mfBlJF4BofS5Xxz0Z7hl-cas] for service [http://127.0.0.1:8082/sso_login/home/toUserLogin?ticket=ST-2-z4dpYYOBEZObcWzktIWH-cas] for user [admin]
+2018-02-05 21:26:53,603 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:26:53,604 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:28:53,603 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:28:53,603 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:30:53,603 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:30:53,604 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:32:53,604 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:32:53,605 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:34:53,604 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:34:53,604 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:36:53,603 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:36:53,604 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:38:53,603 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:38:53,603 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:40:53,603 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:40:53,603 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:42:53,603 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:42:53,604 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:44:53,604 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:44:53,605 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:46:53,610 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:46:53,610 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:48:53,604 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:48:53,605 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:50:53,603 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:50:53,604 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:52:53,603 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:52:53,604 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:54:53,603 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:54:53,605 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:56:53,603 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:56:53,604 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 21:58:53,603 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 21:58:53,603 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 22:00:53,603 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 22:00:53,604 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 22:02:53,603 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 22:02:53,603 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 22:04:53,602 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 22:04:53,603 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 22:06:53,604 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 22:06:53,604 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 22:08:53,602 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 22:08:53,603 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 22:11:04,959 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 22:11:05,658 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2018-02-05 22:11:24,844 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2018-02-05 22:11:24,845 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2018-02-05 22:11:24,845 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2018-02-05 22:11:35,434 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 22:11:35,434 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 22:11:35,434 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 22:11:35,434 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 22:11:36,350 INFO [org.jasig.cas.authentication.AuthenticationManagerImpl] - AuthenticationHandler: org.jasig.cas.adaptors.jdbc.QueryDatabaseAuthenticationHandler successfully authenticated the user which provided the following credentials: [username: admin]
+2018-02-05 22:11:36,454 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-1-G7kiGFnsIhHnz9iQL7K0-cas] for service [http://127.0.0.1:8082/sso_login/home/toUserLogin] for user [admin]
+2018-02-05 22:12:58,595 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.
+2018-02-05 22:12:59,819 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2018-02-05 22:13:18,283 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Beginning ticket cleanup.
+2018-02-05 22:13:18,283 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - 0 tickets found to be removed.
+2018-02-05 22:13:18,283 INFO [org.jasig.cas.ticket.registry.support.DefaultTicketRegistryCleaner] - Finished ticket cleanup.
+2018-02-05 22:13:34,582 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 22:13:34,582 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 22:13:34,582 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 22:13:34,582 INFO [org.jasig.cas.web.flow.RemoteLoginAction] - Setting path for cookies to: /cas
+2018-02-05 22:13:35,234 INFO [org.jasig.cas.authentication.AuthenticationManagerImpl] - AuthenticationHandler: org.jasig.cas.adaptors.jdbc.QueryDatabaseAuthenticationHandler successfully authenticated the user which provided the following credentials: [username: admin]
+2018-02-05 22:13:35,305 INFO [org.jasig.cas.CentralAuthenticationServiceImpl] - Granted service ticket [ST-1-Upn1utFJ26dXUULkDlCc-cas] for service [http://127.0.0.1:8082/sso_login/home/toUserLogin] for user [admin]
+2018-02-05 22:14:58,861 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Reloading registered services.
+2018-02-05 22:14:58,862 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 4 services.

@@ -1,0 +1,355 @@
+Performance Statistics   2018-02-05 20:13:00 - 2018-02-05 20:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:14:00 - 2018-02-05 20:15:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+CREATE_TICKET_GRANTING_TICKET                         1141.0        1141        1141         0.0           1
+GRANT_SERVICE_TICKET                                     3.0           3           3         0.0           1
+
+Performance Statistics   2018-02-05 20:15:00 - 2018-02-05 20:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:16:00 - 2018-02-05 20:17:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+CREATE_TICKET_GRANTING_TICKET                           47.0          47          47         0.0           1
+DESTROY_TICKET_GRANTING_TICKET                         179.0         179         179         0.0           1
+GRANT_SERVICE_TICKET                                     2.0           2           2         0.0           1
+
+Performance Statistics   2018-02-05 20:19:00 - 2018-02-05 20:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+CREATE_TICKET_GRANTING_TICKET                          562.0         562         562         0.0           1
+DESTROY_TICKET_GRANTING_TICKET                           0.0           0           0         0.0           1
+GRANT_SERVICE_TICKET                                     2.0           2           2         0.0           1
+
+Performance Statistics   2018-02-05 20:21:00 - 2018-02-05 20:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+CREATE_TICKET_GRANTING_TICKET                          557.0         557         557         0.0           1
+DESTROY_TICKET_GRANTING_TICKET                           0.0           0           0         0.0           1
+GRANT_SERVICE_TICKET                                     3.0           3           3         0.0           1
+
+Performance Statistics   2018-02-05 20:22:00 - 2018-02-05 20:23:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:24:00 - 2018-02-05 20:25:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+CREATE_TICKET_GRANTING_TICKET                         1086.0        1086        1086         0.0           1
+
+Performance Statistics   2018-02-05 20:25:00 - 2018-02-05 20:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:26:00 - 2018-02-05 20:27:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:27:00 - 2018-02-05 20:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:28:00 - 2018-02-05 20:29:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:29:00 - 2018-02-05 20:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:30:00 - 2018-02-05 20:31:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:31:00 - 2018-02-05 20:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:32:00 - 2018-02-05 20:33:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:33:00 - 2018-02-05 20:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:34:00 - 2018-02-05 20:35:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:35:00 - 2018-02-05 20:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:36:00 - 2018-02-05 20:37:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:37:00 - 2018-02-05 20:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:38:00 - 2018-02-05 20:39:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:39:00 - 2018-02-05 20:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:40:00 - 2018-02-05 20:41:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:41:00 - 2018-02-05 20:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:42:00 - 2018-02-05 20:43:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:43:00 - 2018-02-05 20:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:44:00 - 2018-02-05 20:45:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:45:00 - 2018-02-05 20:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:46:00 - 2018-02-05 20:47:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:47:00 - 2018-02-05 20:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:48:00 - 2018-02-05 20:49:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:49:00 - 2018-02-05 20:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:50:00 - 2018-02-05 20:51:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:51:00 - 2018-02-05 20:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 20:55:00 - 2018-02-05 20:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+CREATE_TICKET_GRANTING_TICKET                          533.0         533         533         0.0           1
+GRANT_SERVICE_TICKET                                     2.0           2           2         0.0           1
+
+Performance Statistics   2018-02-05 20:59:00 - 2018-02-05 21:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+CREATE_TICKET_GRANTING_TICKET                          724.0         724         724         0.0           1
+DESTROY_TICKET_GRANTING_TICKET                           0.0           0           0         0.0           1
+GRANT_SERVICE_TICKET                                    11.0          11          11         0.0           1
+
+Performance Statistics   2018-02-05 21:01:00 - 2018-02-05 21:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+CREATE_TICKET_GRANTING_TICKET                          749.0         749         749         0.0           1
+DESTROY_TICKET_GRANTING_TICKET                           0.0           0           0         0.0           1
+GRANT_SERVICE_TICKET                                     2.0           2           2         0.0           1
+
+Performance Statistics   2018-02-05 21:02:00 - 2018-02-05 21:03:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:03:00 - 2018-02-05 21:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:04:00 - 2018-02-05 21:05:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:05:00 - 2018-02-05 21:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:09:00 - 2018-02-05 21:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+CREATE_TICKET_GRANTING_TICKET                          380.0          36         724       344.0           2
+DESTROY_TICKET_GRANTING_TICKET                           3.0           0           6         3.0           2
+GRANT_SERVICE_TICKET                                     4.5           3           6         1.5           2
+
+Performance Statistics   2018-02-05 21:10:00 - 2018-02-05 21:11:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:11:00 - 2018-02-05 21:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+CREATE_TICKET_GRANTING_TICKET                           24.0          24          24         0.0           1
+DESTROY_TICKET_GRANTING_TICKET                           1.0           1           1         0.0           1
+GRANT_SERVICE_TICKET                                     1.0           1           1         0.0           1
+
+Performance Statistics   2018-02-05 21:12:00 - 2018-02-05 21:13:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:13:00 - 2018-02-05 21:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:14:00 - 2018-02-05 21:15:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:15:00 - 2018-02-05 21:16:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:17:00 - 2018-02-05 21:18:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+CREATE_TICKET_GRANTING_TICKET                          792.0         792         792         0.0           1
+DESTROY_TICKET_GRANTING_TICKET                           0.0           0           0         0.0           1
+GRANT_SERVICE_TICKET                                     2.0           2           2         0.0           1
+
+Performance Statistics   2018-02-05 21:18:00 - 2018-02-05 21:19:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+CREATE_TICKET_GRANTING_TICKET                           36.0          36          36         0.0           1
+DESTROY_TICKET_GRANTING_TICKET                           5.0           5           5         0.0           1
+GRANT_SERVICE_TICKET                                     0.0           0           0         0.0           1
+
+Performance Statistics   2018-02-05 21:19:00 - 2018-02-05 21:20:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:20:00 - 2018-02-05 21:21:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:21:00 - 2018-02-05 21:22:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:22:00 - 2018-02-05 21:23:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:23:00 - 2018-02-05 21:24:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:24:00 - 2018-02-05 21:25:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:25:00 - 2018-02-05 21:26:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+CREATE_TICKET_GRANTING_TICKET                           34.0          34          34         0.0           1
+DESTROY_TICKET_GRANTING_TICKET                           1.0           1           1         0.0           1
+GRANT_SERVICE_TICKET                                     0.0           0           0         0.0           1
+
+Performance Statistics   2018-02-05 21:26:00 - 2018-02-05 21:27:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:27:00 - 2018-02-05 21:28:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:28:00 - 2018-02-05 21:29:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:29:00 - 2018-02-05 21:30:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:30:00 - 2018-02-05 21:31:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:31:00 - 2018-02-05 21:32:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:32:00 - 2018-02-05 21:33:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:33:00 - 2018-02-05 21:34:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:34:00 - 2018-02-05 21:35:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:35:00 - 2018-02-05 21:36:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:36:00 - 2018-02-05 21:37:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:37:00 - 2018-02-05 21:38:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:38:00 - 2018-02-05 21:39:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:39:00 - 2018-02-05 21:40:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:40:00 - 2018-02-05 21:41:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:41:00 - 2018-02-05 21:42:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:42:00 - 2018-02-05 21:43:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:43:00 - 2018-02-05 21:44:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:44:00 - 2018-02-05 21:45:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:45:00 - 2018-02-05 21:46:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:46:00 - 2018-02-05 21:47:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:47:00 - 2018-02-05 21:48:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:48:00 - 2018-02-05 21:49:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:49:00 - 2018-02-05 21:50:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:50:00 - 2018-02-05 21:51:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:51:00 - 2018-02-05 21:52:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:52:00 - 2018-02-05 21:53:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:53:00 - 2018-02-05 21:54:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:54:00 - 2018-02-05 21:55:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:55:00 - 2018-02-05 21:56:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:56:00 - 2018-02-05 21:57:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:57:00 - 2018-02-05 21:58:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:58:00 - 2018-02-05 21:59:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 21:59:00 - 2018-02-05 22:00:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 22:00:00 - 2018-02-05 22:01:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 22:01:00 - 2018-02-05 22:02:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 22:02:00 - 2018-02-05 22:03:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 22:03:00 - 2018-02-05 22:04:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 22:04:00 - 2018-02-05 22:05:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 22:05:00 - 2018-02-05 22:06:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 22:06:00 - 2018-02-05 22:07:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 22:07:00 - 2018-02-05 22:08:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 22:08:00 - 2018-02-05 22:09:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 22:09:00 - 2018-02-05 22:10:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
+Performance Statistics   2018-02-05 22:11:00 - 2018-02-05 22:12:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+CREATE_TICKET_GRANTING_TICKET                          911.0         911         911         0.0           1
+GRANT_SERVICE_TICKET                                    30.0          30          30         0.0           1
+
+Performance Statistics   2018-02-05 22:13:00 - 2018-02-05 22:14:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+CREATE_TICKET_GRANTING_TICKET                          629.0         629         629         0.0           1
+DESTROY_TICKET_GRANTING_TICKET                           0.0           0           0         0.0           1
+GRANT_SERVICE_TICKET                                     3.0           3           3         0.0           1
+
+Performance Statistics   2018-02-05 22:14:00 - 2018-02-05 22:15:00
+Tag                                                  Avg(ms)         Min         Max     Std Dev       Count
+
