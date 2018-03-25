@@ -1,9 +1,3 @@
-/**
- *<p>Copyright ® 太极信息国防BG版权所有。</p>
- *类名:RemoteLoginController
- *创建人:Duzh    创建时间:2017年8月14日
- */
-
 package org.jasig.cas.web.flow;
 
 import java.util.List;
@@ -21,11 +15,7 @@ import org.springframework.webflow.action.AbstractAction;
 import org.springframework.webflow.execution.Event;
 import org.springframework.webflow.execution.RequestContext;
 
-/**
- * TODO <功能简述> <br/>
- * TODO <功能详细描述>
- * @author Duzh
- */
+
 public class RemoteLoginAction extends AbstractAction{
     
     /** CookieGenerator for the Warnings. */  
